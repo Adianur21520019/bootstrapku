@@ -1,0 +1,33 @@
+.sidebar {
+    height: 600px;
+    background-color: #011;
+}
+.sidebar img {
+    width: 200px;
+}
+.contain {
+    height: 600px;
+    background-color: aliceblue;
+}
+.contain td {
+    width: 250px;
+    height: 300px;
+}
+.contain .paket1 {
+    background-color: black;
+}
+.paket1 img {
+    width: 200px;
+    position: relative;
+    top: -15px;
+    left: 25px;
+}
+.contain .paket2 {
+    background-color: orange;
+}
+.contain .paket3 {
+background-color: cyan;
+}
+.contain .paket4 {
+    background-color: black;
+}
